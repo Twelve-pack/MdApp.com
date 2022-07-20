@@ -76,7 +76,7 @@ nav{
 
 /*----------------------------media tag used------------------------------------------------------------ */
 
-@media (landscape),(max-width: 376px){
+@media (landscape),(max-width: 420px){
 
 	.top{
 
@@ -106,19 +106,20 @@ nav{
 
 }
 
-@media (landscape),(max-width: 600px), (min-width: 376px{
+@media (landscape),(max-width: 600px), (min-width: 421px){
 
 	.top{
 
 	color: ghostwhite;
-	font-size: 17px;
+	font-size: 20px;
 }
     .icon a{
 
-    	font-size: 15px;
+    	font-size: 20px;
     	padding-right: 10px;
     }
 }
+
 
 
 
